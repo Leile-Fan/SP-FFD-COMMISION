@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/SP-FFD-COMMISION/sw.js', { scope: '/SP-FFD-COMMISION/' })})}
