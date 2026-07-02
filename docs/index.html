@@ -15,5 +15,13 @@
   <link rel="manifest" href="/SP-FFD-COMMISION/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/SP-FFD-COMMISION/registerSW.js"></script></head>
   <body>
     <div id="root"></div>
+    <script>
+      // Clear old service workers to fix caching issues
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(regs => {
+          regs.forEach(r => r.unregister());
+        });
+      }
+    </script>
   </body>
 </html>
