@@ -38,5 +38,5 @@ export default defineConfig({
     }),
   ],
   base: '/SP-FFD-COMMISION/',
-  build: { outDir: 'dist', assetsDir: 'assets' },
+  build: { outDir: 'docs', assetsDir: 'assets' },
 })
