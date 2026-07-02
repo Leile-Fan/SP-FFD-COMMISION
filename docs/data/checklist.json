@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "title": "Mechanical & Instruments Checkout",
+    "titleCn": "机械与仪表调试检查清单",
+    "source": "Startup Guideline & Operation Instruction",
+    "totalItems": 23
+  },
+  "items": [
+    {
+      "id": "co-01",
+      "number": 1,
+      "title": "Installation of the drum pulper visually checked",
+      "titleCn": "转鼓碎浆机安装目视检查",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-02",
+      "number": 2,
+      "title": "Sealing water and cooling water pipe flushed and connected",
+      "titleCn": "密封水和冷却水管路冲洗并连接",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-03",
+      "number": 3,
+      "title": "Check sealing water & cooling water flow, no plugged issue",
+      "titleCn": "检查密封水和冷却水流量，无堵塞",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-04",
+      "number": 4,
+      "title": "Function of sealing water flow switch checked",
+      "titleCn": "密封水流量开关功能检查",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-05",
+      "number": 5,
+      "title": "Oil level (gear box) checked",
+      "titleCn": "齿轮箱油位检查",
+      "hasValue": true,
+      "valueUnit": "",
+      "remark": "According to nameplate",
+      "hasRemark": true
+    },
+    {
+      "id": "co-06",
+      "number": 6,
+      "title": "Function of temperature switches (gear box) checked",
+      "titleCn": "齿轮箱温度开关功能检查",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-07",
+      "number": 7,
+      "title": "Function of oil pressure switch (gear box) checked",
+      "titleCn": "齿轮箱油压开关功能检查",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-08",
+      "number": 8,
+      "title": "Function of difference pressure switch (gear box) checked",
+      "titleCn": "齿轮箱差压开关功能检查",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-09",
+      "number": 9,
+      "title": "Circulation oil pump rotation test, check the pressure",
+      "titleCn": "循环油泵旋转测试，检查压力",
+      "hasValue": true,
+      "valueUnit": "bar",
+      "hasRemark": true
+    },
+    {
+      "id": "co-10",
+      "number": 10,
+      "title": "Drum pulper position sensor signal test",
+      "titleCn": "转鼓碎浆机位置传感器信号测试",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-11",
+      "number": 11,
+      "title": "Lubrication system control box I/O checked (SKF system)",
+      "titleCn": "润滑系统控制箱 I/O 检查 (SKF系统)",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-12",
+      "number": 12,
+      "title": "Install Lubrication oil pump (SKF system)",
+      "titleCn": "安装润滑油泵 (SKF系统)",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-13",
+      "number": 13,
+      "title": "Flushing air tube completely",
+      "titleCn": "空气管路完全冲洗",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-14",
+      "number": 14,
+      "title": "Flushing Lubrication oil pipe with grease (SKF system)",
+      "titleCn": "润滑油脂管路冲洗 (SKF系统)",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-15",
+      "number": 15,
+      "title": "Refill grease for all bearings",
+      "titleCn": "所有轴承补充润滑脂",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-16",
+      "number": 16,
+      "title": "Check and adjust the oil spray nozzle angle (SKF system)",
+      "titleCn": "检查和调整油喷嘴角度 (SKF系统)",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-17",
+      "number": 17,
+      "title": "Drum pulper main motor rotation test without coupling",
+      "titleCn": "转鼓碎浆机主电机旋转测试（未连接联轴器）",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-18",
+      "number": 18,
+      "title": "Motor power transmitter check",
+      "titleCn": "电机功率变送器检查",
+      "hasValue": true,
+      "valueUnit": "kW",
+      "hasRemark": true
+    },
+    {
+      "id": "co-19",
+      "number": 19,
+      "title": "Slow drive control box check & brake wiring check",
+      "titleCn": "慢速驱动控制箱和制动接线检查",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-20",
+      "number": 20,
+      "title": "Fill oil for fluid coupling",
+      "titleCn": "液力联轴器加油",
+      "hasValue": false,
+      "hasRemark": true,
+      "remark": "详见液力联轴器手册"
+    },
+    {
+      "id": "co-21",
+      "number": 21,
+      "title": "Install back the coupling and run the main motor, at the same time run the SKF system",
+      "titleCn": "连接联轴器，运行主电机+SKF系统",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-22",
+      "number": 22,
+      "title": "Vibrations, noise, temperature check",
+      "titleCn": "振动、噪音、温度检查",
+      "hasValue": false,
+      "hasRemark": true
+    },
+    {
+      "id": "co-23",
+      "number": 23,
+      "title": "Bottom vat agitator rotation test",
+      "titleCn": "底部槽体搅拌器旋转测试",
+      "hasValue": false,
+      "hasRemark": true
+    }
+  ]
+}
