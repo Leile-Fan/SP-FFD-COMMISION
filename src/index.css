@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #E3F2FD;
+  --color-primary-100: #BBDEFB;
+  --color-primary-200: #90CAF9;
+  --color-primary-300: #64B5F6;
+  --color-primary-400: #42A5F5;
+  --color-primary-500: #2196F3;
+  --color-primary-600: #1E88E5;
+  --color-primary-700: #1976D2;
+  --color-primary-800: #1565C0;
+  --color-primary-900: #0D47A1;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+}
+
+body {
+  background-color: #F8FAFC;
+  color: #1E293B;
+  overflow: hidden;
+  height: 100dvh;
+}
+
+#root {
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 2px;
+}
+
+/* Markdown content styling */
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  color: #0D47A1;
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
+.prose h1 { font-size: 1.5rem; }
+.prose h2 { font-size: 1.25rem; }
+.prose h3 { font-size: 1.1rem; }
+.prose p { margin-bottom: 0.75em; line-height: 1.7; }
+.prose ul, .prose ol { margin-bottom: 0.75em; padding-left: 1.5em; }
+.prose li { margin-bottom: 0.25em; }
+.prose strong { color: #1565C0; }
+.prose table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: 0.9rem; }
+.prose th { background: #E3F2FD; padding: 8px 12px; text-align: left; font-weight: 600; border: 1px solid #BBDEFB; }
+.prose td { padding: 6px 12px; border: 1px solid #E3F2FD; }
+
+/* Image figure styling */
+.prose figure { margin: 1em 0; }
+.prose figure img { max-width: 100%; border-radius: 8px; cursor: pointer; border: 1px solid #E2E8F0; }
+.prose figure figcaption { font-size: 0.85rem; color: #64748B; margin-top: 4px; text-align: center; }
+
+/* Lightbox */
+.lightbox-backdrop {
+  position: fixed; inset: 0; z-index: 9999;
+  background: rgba(0,0,0,0.92); display: flex; align-items: center; justify-content: center;
+}
+.lightbox-img { max-width: 95vw; max-height: 90vh; object-fit: contain; border-radius: 4px; }
+
+/* Toast */
+.toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); z-index: 9999;
+  background: #1E293B; color: white; padding: 10px 24px; border-radius: 24px; font-size: 0.9rem; }

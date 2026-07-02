@@ -1,0 +1,825 @@
+{
+  "meta": {
+    "title": "ANDRITZ FFD400EEL Fibre Flow Drum",
+    "subtitleEn": "Erection Work, Operating and Maintenance Instructions",
+    "subtitleCn": "安装、操作和维修说明",
+    "machineModel": "FFD400EEL",
+    "manufacturingNo": "210243705",
+    "yearOfManufacture": "2025",
+    "customerEn": "Paperiko Co., Ltd.",
+    "customerCn": "Paperiko Co., Ltd.",
+    "orderNo": "PRF 40178405",
+    "totalPages": 40,
+    "generatedAt": "2026-07-02",
+    "languages": [
+      "en",
+      "cn"
+    ]
+  },
+  "chapters": [
+    {
+      "id": "safety",
+      "number": "I",
+      "titleEn": "SAFETY REGULATIONS",
+      "titleCn": "安全规程",
+      "sections": [
+        {
+          "id": "safety-1",
+          "number": "1",
+          "titleEn": "Operating Personnel",
+          "titleCn": "操作人员",
+          "contentEn": "1. Operating Personnel These instructions are for all persons working with the FibreFlow  Drum Pulper. Below is listed some special instructions for the operating personnel. Operation work shall be carried -out only by qualified and trained personnel",
+          "contentCn": "1 操作人员 本说明是针对所有对转鼓碎浆机进行操作的人员 。下面列出了一些正对操作人员的特殊说明 。操作工作 只允许经过培许的有资格的人员进行 。",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "safety-1-1",
+              "number": "1.1",
+              "titleEn": "Before Start up",
+              "titleCn": "开机前",
+              "contentEn": "1.1. Before Start up Check that nobody is working with the Drum or any other equipment belonging to the group start (FibreFlow Drum pulping), which is going to be started. Check also that service and inspection hatches are closed, and safety guards and the drive are appropriately installed for production.",
+              "contentCn": "1.1 开机前 开机前检查并确保转鼓和其它相关设备上没有人工作 ,各个服务和观察口都是关 着的,安全防护罩和电机都安装到位 .",
+              "figures": []
+            },
+            {
+              "id": "safety-1-2",
+              "number": "1.2",
+              "titleEn": "Safety Guards",
+              "titleCn": "防护罩",
+              "contentEn": "1.2. Safety Guards Safety guards may not be removed or opened during the operation. (Drum running) Inspection hatches of the Hood and the Screening Section may be opened carefully for watching, but nothing is allowed to put inside the Hood. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "1.2 防护罩 操作期间 ,不允许打开防护罩 .在转鼓碎浆机运行期间 ,可以小心的打开罩壳和筛体 部位的观察口 ,但是不允许放任何东西在罩壳内 .",
+              "figures": []
+            },
+            {
+              "id": "safety-1-3",
+              "number": "1.3",
+              "titleEn": "Emergency Stop",
+              "titleCn": "紧急停止",
+              "contentEn": "1.3. Emergency Stop In case of emergency, stop the Drum using Emergency Stop. Release Emergency Stop only after the reason for the emergency shut down has been clarified, when emergency situation is over and it is safe to start up.",
+              "contentCn": "1.3 紧急停止 在紧急情况下用急停开关停止转鼓碎浆机 .只用在清楚紧急停机原因后 ,紧急状况 得到解决才可以释放急停开关 ,安全开机 .",
+              "figures": []
+            },
+            {
+              "id": "safety-1-4",
+              "number": "1.4",
+              "titleEn": "Start up of the Drum",
+              "titleCn": "开启转鼓",
+              "contentEn": "1.4. Start up of the Drum Start up and operate the Drum using remote - or auto -mode. Before start up, ensure that the Drum is ready and nobody is working with it. Check that hatch on the Reject Conveyor Hood is closed.",
+              "contentCn": "1.4 开启转鼓 用远程和自动模式开启和操作转鼓 .开机前 ,确保转鼓已经准备就绪 ,没有人在对其 进行操作 . 检查排浆输送防护罩上的开口是关着的 . ➢ 非组启动开机 /手动开机机械运行 转鼓碎浆机 可以不带水和化学品运行 ,也可以不随 排浆输送 机和喂纸输送 机独立 运行.(如果底槽是空 的,底槽搅拌器可以不随转鼓运行 ) 当转鼓在非组启动状况下运行时 ,不可以加入化学物品 (化学物品不可以在没有水 的状况下加入 ).密封绳应用水冲洗和润滑 .密封绳润滑可以通过进料斗加少量的水 , 或者往转鼓内加少量 碎浆水实现. FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "safety-1-5",
+              "number": "1.5",
+              "titleEn": "Shut Down",
+              "titleCn": "关机",
+              "contentEn": "1.5. Shut Down Before long shut down the Drum shall be emptied and washed.",
+              "contentCn": "1.5 关机 在长时间停机 前,必须清空和冲洗干净转鼓 . ➢ 清空和冲洗碎浆段 停止碎浆段的喂纸输送 ,化学物品流和浆水 .等30分钟确保所有的纤维已经分离和 过滤好 .然后通过加水 115分钟,冲洗碎浆部分 . ➢ 清空和冲洗筛选段 当底部槽体内的存浆清空后 ,用水冲洗筛选段 20分钟.",
+              "figures": []
+            },
+            {
+              "id": "safety-1-6",
+              "number": "1.6",
+              "titleEn": "Cleaning the Drum",
+              "titleCn": "清洗转鼓",
+              "contentEn": "1.6. Cleaning the Drum Clean the Drum with water only. Be sure that water hose do not touch to the rotating parts of the Drum. Do not spray water to the drive, or electrical parts nor equipment.",
+              "contentCn": "1.6 清洗转鼓 只能用水清洗转鼓 .确保水管 不要碰到 到转鼓的旋转部位 .水不要溅到电机或电气 设备上 .",
+              "figures": []
+            },
+            {
+              "id": "safety-1-7",
+              "number": "1.7",
+              "titleEn": "Cleaning the Holes of the Screening Section Shower Piping",
+              "titleCn": "清洗筛选段喷淋水管的孔",
+              "contentEn": "1.7. Cleaning the Holes of the Screening Section Shower Piping Interlock the Drum as described in point 2.1. Rotation of the Drum shall always be prevented. Clean the holes by hand or use a high -pressure washer. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "1.7 清洗筛选段喷淋水管的孔 按照 2.1联锁锁住转鼓。 避免转鼓的转动 。 用手或高压水流清洗筛选孔 。",
+              "figures": []
+            },
+            {
+              "id": "safety-1-8",
+              "number": "1.8",
+              "titleEn": "Cleaning the Holes of the Screening Section",
+              "titleCn": "清洗筛选段的孔",
+              "contentEn": "1.8. Cleaning the Holes of the Screening Section Interlock the Drum as described in point 2.1. Flush using a high -pressure washer.",
+              "contentCn": "1.8 清洗筛选段的孔 按照 2.1联锁锁住转鼓 。 用高压水冲洗",
+              "figures": []
+            },
+            {
+              "id": "safety-1-9",
+              "number": "1.9",
+              "titleEn": "Cleaning the Bottom Vat",
+              "titleCn": "清洗底部槽体",
+              "contentEn": "1.9. Cleaning the Bottom Vat The Bottom has been designed so that there is normally no need to go into the Vat. Interlock the Drum as described in point 2.1. Open the emptying valve and let Bottom Vat run empty. Open the Screening Section Inspection Hatches to increase the ventilation inside the Vat. Open the Vat manhole (weight ~20kg). Interlock Agitators, Pumps and Valves Before going into the Vat, Agitators shall be interlocked (dismount the belts, or remove fuses from the MCC). Interlock also Shower Water - and Bottom Vat pump and its valve. Cleaning the Vat Flush with water.",
+              "contentCn": "1.9 清洗底部槽体 底部槽体的设计 ,一般不需要进入槽体 . 按照 2.1联锁锁住转鼓 。 打开排浆阀 排空底槽.打开筛选段 检查孔通风.打开槽体 人孔. ➢ 联锁搅拌器 ,泵和阀门 在进入槽体前 ,搅拌器应该进行 联锁( 拆掉皮带 ,或拆掉 MCC的保险丝 ).联锁喷淋 水和底槽 泵和阀门 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "safety-1-10",
+              "number": "1.10",
+              "titleEn": "Taking Stock Samples",
+              "titleCn": "取样",
+              "contentEn": "1.10. Taking Stock Samples Use personal protection when taking samples. Protect your eyes and hands. Take stock samples from the outlet side of the Bottom Vat pump.",
+              "contentCn": "1.10 取样 取样时要 穿戴好防护恶和品 ,保护好你的眼睛和手 .在底槽泵 出口取样 .",
+              "figures": []
+            },
+            {
+              "id": "safety-1-11",
+              "number": "1.11",
+              "titleEn": "Adjustments, Fine Tuning During the Production",
+              "titleCn": "生产过程中的调整和微调",
+              "contentEn": "1.11. Adjustments, Fine Tuning During the Production When working with the rotating Drum, ensure that no clothes or tools adhere to the rotating parts of the machine. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "1.11 生产过程中的调 整和微调 当在转动的转鼓上工作时 ,注意不要将衣服和工具接触到设备的转动部位 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "safety-2",
+          "number": "2",
+          "titleEn": "Maintenance Personnel",
+          "titleCn": "维护人员",
+          "contentEn": "2. Maintenance Personnel These instructions are for all persons working with the FibreFlow  Drum Pulper. Below is listed some special instructions for the maintenance personnel. It is recommended to empty the Drum from stock and to flush it before maintenance is started. Maintenance and Service Work shall be carried -out by qualified and trained personnel only.",
+          "contentCn": "2 维护人员 本节介绍针对所有对转鼓碎浆机进行操作的人 .下面列出一些针对维护人员的特 殊说明 . 建议维护前清空转鼓内的浆料 ,并且冲洗干净 . 维护和服务工作只能由能胜任的经过培训的人员进行 .",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "safety-2-1",
+              "number": "2.1",
+              "titleEn": "Prevent Free Movement of the Drum",
+              "titleCn": "阻止转鼓的自由移动",
+              "contentEn": "2.1 Prevent Free Movement of the Drum Drum shall always be interlocked before beginning of inspection or maintenance. Free movement of the Drum shall be prevented before the work is started. Free movement of the Drum is prevented by Brake Motor on the Auxiliary Drive. (option) When power is off, lock is on and Drum is kept on place. Main switch of the auxiliary drive can also be locked mechanically. Rotation of the Drum can be prevented also by using special Locking Tool installed into the Pinion - Girth Gear –joint.",
+              "contentCn": "2.1 组织转鼓的自由移动 在检查和维护工作前 ，最好将转鼓 联锁，就可以防止转鼓的自由移动 。 转鼓的自由移动通过辅助驱动上的制动电机来阻止 。当电源切断时 ，转鼓被锁 定。辅助传动的主开关也可以机械的锁住 。 转鼓的旋转也可以通过安装在小齿轮和环齿轮之间的特殊锁定工具来阻止 。",
+              "figures": []
+            },
+            {
+              "id": "safety-2-2",
+              "number": "2.2",
+              "titleEn": "Use of Slow Drive (Auxiliary Drive)",
+              "titleCn": "低速驱动(辅助驱动)的使用",
+              "contentEn": "2.2 Use of Slow Drive (Auxiliary Drive) (Option) Only trained personnel are allowed to operate the Slow Drive. Slow Drive is used for maintenance to rotate the Drum to wanted position and to stop it on that position. Before the Drum is rotated all the tools; tackles, hoists, hydraulic torque wrench etc. shall be disconnected from the Drum. When the Drum is at wanted position: 1) in case there is a brake motor, power of the auxiliary drive shall be turned of to secure the Drum cannot be rotated. 2) if there is NO brake motor, the Drum shall be locked mechanically before any work can be started.",
+              "contentCn": "2.2 低速驱动(辅助驱动 )的使用 只有经过培训的人才允许对低速电机进行操作 。 低速驱动用于维护时将转鼓转到适合位置并将其停留在该位置 . 在转动转鼓前所有的工具 :滑车,提升机 ,水利转矩扳手等等应该 与转鼓分开 . 当转鼓在 想要的位置时 : 1) 如果有制动电机 ，切断辅助驱动器的电源 ，确保转鼓不要旋转 。 2) 如果没有制动电机 ，在开始任何工作之前都要机械地将转鼓锁定 。",
+              "figures": []
+            },
+            {
+              "id": "safety-2-3",
+              "number": "2.3",
+              "titleEn": "Work Inside the Drum and the Bottom Vat",
+              "titleCn": "在转鼓和槽体底部工作",
+              "contentEn": "2.3 Work Inside the Drum and the Bottom Vat When carrying -out inspection or maintenance work, which require entering into the Drum, the machine shall be stopped, emptied, washed and ventilated. Drum shall be interlocked before beginning of inspection or maintenance. Rotation of the Drum is prevented as described in point 2.1. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "2.3 在转鼓和槽体底部工作 如果必需要进入转鼓内进行 观察或维修 ,应该将转鼓停下 ,清空,冲洗,通风后再进 行.在观察和维护前应该将转鼓 联锁.如2.1描述的应该阻止转鼓的转动 . ➢ 在转鼓内工作 不允许单独 在转鼓内工作 . 确保转鼓和搅拌器的 联锁. 开启前应该确保通风 .在钢体转鼓内工作时要使用适当的工具和个人防护 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "safety-2-4",
+              "number": "2.4",
+              "titleEn": "Lifting the Drum",
+              "titleCn": "提升转鼓",
+              "contentEn": "2.4 Lifting the Drum When the Drum is lifted for replacing a Support Roll, special lifting tool, so called lifting beam shall be applied. The mass balance position of the Drum shall be checked carefully, especially before lifting the Drum, which is full of stock. It is recommended to empty the Drum before maintenance. Drive shall be dismounted and pulled aside before the Drum is lifted.",
+              "contentCn": "2.4 提升转鼓 当提升转鼓来更换支撑滚轮时 ,需要准备特殊提升工具也叫起重横梁 。 必须仔细 确定转鼓的重心位置。提升转鼓 做维护时 .要先将转鼓中浆水排 空. 提升转鼓前需将电机拆掉 .",
+              "figures": []
+            },
+            {
+              "id": "safety-2-5",
+              "number": "2.5",
+              "titleEn": "Dismantling the Machine",
+              "titleCn": "拆卸设备",
+              "contentEn": "2.5 Dismantling the Machine Before dismantling the machine, check the condition of the lifting points and strengthen these if required. While dismantling dust may be generated due to corrosion and chemicals: use a mask and appropriate safety equipment and take of ventilation. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "2.5 拆卸设备 在拆卸设备前 ，检查提升点的状况 ，如果有需要的话加固提升点 。拆卸过程 中，可能由于腐蚀和化学物品产生粉尘 ：所以要用安全防护罩并采取通风 。 在放射源附近做维护工作 在工作前需要将放射源盖住并锁好 . 喂料输送装置也需要锁定并装上警告标志 .",
+              "figures": []
+            },
+            {
+              "id": "safety-2-6",
+              "number": "2.6",
+              "titleEn": "Overall Safety Rules",
+              "titleCn": "全面的安全规程",
+              "contentEn": "2.6 Overall Safety Rules When repairing the machine, changing its components, installing and doing dismantling work, follow all instructions for safety at your work that relate to hoists, accessory equipment and work in general.",
+              "contentCn": "2.6 全面的安全规程 当维修设备 ，更换部件 ，安装和拆卸时 ，必须准收所有和你工作相关的安全规 程.包括提升机 ,附属设备和一般工作 .",
+              "figures": []
+            },
+            {
+              "id": "safety-2-7",
+              "number": "2.7",
+              "titleEn": "Demolishing",
+              "titleCn": "拆毁",
+              "contentEn": "2.7 Demolishing When the Drum is wanted to be demolished, follow the general dismantling instructions. Be careful with old, corroded structures and loose parts. All parts of the Drum can be re -melted into recycled metal. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "2.7 拆毁 拆毁转鼓时 ,需要遵守一般的拆毁说明 .当心老化的 ,腐蚀的 ,和松动的部件 . 转鼓的所有部件都可以再熔化 ,循环利用 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "safety-3",
+          "number": "3",
+          "titleEn": "Risk Factors and Protection",
+          "titleCn": "危险因素和防护",
+          "contentEn": "3. Risk Factors and Protection Below is listed the remaining risk factors related to FibreFlow Drum Pulper. Personal protection is needed (point 3.1.13).",
+          "contentCn": "3 危险因素和防护 下面列出转鼓碎浆机的相关危险因素 .需要个人防护 (见3.1.13)",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "safety-3-1",
+              "number": "3.1",
+              "titleEn": "List of Risk Factors",
+              "titleCn": "危险因素清单",
+              "contentEn": "3.1 List of Risk Factors",
+              "contentCn": "3.1 危险因素清单",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "safety-4",
+          "number": "4",
+          "titleEn": "Appendices to Safety Instructions",
+          "titleCn": "安全说明附件",
+          "contentEn": "4. Appendices to Safety Instructions Appendix 1 Recommendation to Use Warning Signs Appendix 2 General Safety Instructions Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "4 安全说明附件 附件 1 建议使用的警告标志 附件 2 一般安全介绍 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "id": "mechanical-startup",
+      "number": "II",
+      "titleEn": "MECHANICAL START-UP INSTRUCTIONS",
+      "titleCn": "设备开机说明",
+      "sections": [
+        {
+          "id": "mech-1",
+          "number": "1",
+          "titleEn": "Before Start-Up",
+          "titleCn": "开机前",
+          "contentEn": "1. Befor Start -Up Installation Inspection shall be performed and approved before advancing to the start -up. Before the first start -up the following operations shall be checked and verified.",
+          "contentCn": "1 开机前 开机前应该进行安装检查 . 如果是第一次开机 应该检查和校验以下操作 .",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "mech-1-1",
+              "number": "1.1",
+              "titleEn": "Approved Control System Operation",
+              "titleCn": "控制系统",
+              "contentEn": "1.1 Approved Control System Operation The Drum is operated by using the DCS system, which requires readiness for the operation and permission to proceed.",
+              "contentCn": "1.1 控制系统 通过 DCS系统对转鼓进行操作 ，需要操作准备就绪和得到许可后进行 。",
+              "figures": []
+            },
+            {
+              "id": "mech-1-2",
+              "number": "1.2",
+              "titleEn": "Lubrication",
+              "titleCn": "润滑",
+              "contentEn": "1.2 Lubrication Lubricants for the Main Drive gearbox, Fluid Coupling and Auxiliary Drive shall be filled -up. Girth Gear and Pinion (drive wheel), and Support Rollers and Axial Roll shall be lubricated by rotating the Drum using the Slow Drive or manually. Agitators and Bottom Vat pump shall be greased, too. The operation of the Central Lubrication System shall be checked and tuned. The bearings of the Support Rollers and Axial Roll shall be lubricated by the Central Lubrication System as well as the Girth Gear and Pinion. The rotation direction of the lubrication pump of the main drive shall be checked; also the Cooling water connections of the Main Drive. Check agitators and Bottom Vat pump sealing water flow and pressure.",
+              "contentCn": "1.2 润滑 主传动减速箱 ，液压联轴器和辅助电机都应该装满润滑油 。对大齿轮和小齿轮 （驱动轮），和支撑滚轮和轴向滚轮润滑时需要通过慢速驱动或手动旋转转 鼓。搅拌器和底部槽体泵也需要加润滑脂 。 中央润滑系统的运行需要检查和调整 。支撑滚轮和轴向滚轮和 大齿轮和小齿轮 一样通过中央润滑系统进行润滑 。 应该检查主传动润滑泵的旋转方向 ，冷却水和主传动的连接部件 。 检查搅拌器和底部槽体泵密封水的流量的水压 。",
+              "figures": []
+            },
+            {
+              "id": "mech-1-3",
+              "number": "1.3",
+              "titleEn": "Signal Testing",
+              "titleCn": "信号测试",
+              "contentEn": "1.3 Signal Testing The operation of all safety functions shall be verified using signal testing before the start -up. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "1.3 信号测试 开机前之前应该通过信号测试核实所有安全功能的运行 。 开机前应该测试主电机和主传动润滑泵的启动程序 。 还应该检查中心润滑系统和 DCS的连接部位 ，并核实运行状况 。",
+              "figures": []
+            },
+            {
+              "id": "mech-1-4",
+              "number": "1.4",
+              "titleEn": "Free Rotation of Drum and Rotation Directions",
+              "titleCn": "自由旋转和旋转方向",
+              "contentEn": "1.4 Free Rotation of Drum and Rotation Directions Free rotation of the Drum shall be checked by rotating the Drum using Slow Drive, or by tackle. The right rotation direction of the main motor of the Drum, the motors of the oil pump, agitators, bottom vat pump and conveyors shall be checked before coupling these to the equipment.",
+              "contentCn": "1.4 自由旋转和旋转方向 通过用慢传动或滑轮旋转转鼓来检查转鼓的自由旋转 。 在连接设备之前应该检查转鼓主电机的转动方向 ，油泵电机 ，搅拌器 ，底部槽 体泵和输送装置 。",
+              "figures": []
+            },
+            {
+              "id": "mech-1-5",
+              "number": "1.5",
+              "titleEn": "Paper Feed and Reject Handling System",
+              "titleCn": "喂纸和排渣处理系统",
+              "contentEn": "1.5 Paper Feed and Reject Handling System It is recommended that the operation of these systems is checked before the Mechanical Run is performed (DCS in operation).",
+              "contentCn": "1.5 喂纸和排渣处理系统 在设备运行前 （DCS操作）建议检查这些系统的运转情况 。 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "mech-1-6",
+              "number": "1.6",
+              "titleEn": "Rope Sealing",
+              "titleCn": "绳索密封",
+              "contentEn": "1.6 Rope Sealing Disassemble the Rope Sealing during the Mechanical Run.",
+              "contentCn": "1.6 绳索密封 设备运行时解开绳索密封 。",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "mech-2",
+          "number": "2",
+          "titleEn": "Start-Up for Mechanical Run",
+          "titleCn": "试运行开机",
+          "contentEn": "2. Start -Up for Mechanical Run The first start -up, the so called Mechanical Run, is allowed to be performed only under the supervision of the Supplier´ s Representative. See Safety Regulations point 1.1 and 1.4.",
+          "contentCn": "2 试运行开机 第一次开机 ,也叫试运行 ,只能在供货方代表人的监管下进行 . 见安全规程中的 1.1和1.4",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "mech-2-1",
+              "number": "2.1",
+              "titleEn": "Observations During the Mechanical Run",
+              "titleCn": "试运行时的观察",
+              "contentEn": "2.1 Observations During the Mechanical Run Start the Main Motor of the Drum and observe immediately that the Drum is not moving in its axial direction and check once again that the rotation direction is correct.",
+              "contentCn": "2.1 试运行时的观察 开启转鼓的主电机 ,然后立即观察到转鼓不是沿轴向移动 ,然后再次检查旋转方向 是正确的 .",
+              "figures": []
+            },
+            {
+              "id": "mech-2-2",
+              "number": "2.2",
+              "titleEn": "Other Important Observations",
+              "titleCn": "其它重要观察点",
+              "contentEn": "2.2 Other Important Observations Check Main Drive operation: ✓ Vibrations, ✓ Temperatures, ✓ Cooling, ✓ Adjust cooling thermostat, ✓ Check for strange noises from the installation.",
+              "contentCn": "2.2 其它重要观察点 检查主传动运行 : - 振动 - 温度 - 冷却 - 调节冷却调温器 - 检查安装时发出的奇怪的声音",
+              "figures": []
+            },
+            {
+              "id": "mech-2-3",
+              "number": "2.3",
+              "titleEn": "Lubrication",
+              "titleCn": "润滑",
+              "contentEn": "2.3 Lubrication Lubricate the Girth Gear, Pinion, Support Rolls and Axial Roll by giving the full dose of grease from the Lubrication System at continuous run during the first two weeks. After that the grease dosing can be adjusted to the recommended level.",
+              "contentCn": "2.3 润滑 在开始连续运行的两周内用润滑系统的充分剂量的润滑脂润滑环形齿轮 ,小齿轮 , 支撑滚轮和轴向滚轮 .之后可以根据推荐的油位调节润滑脂加入量 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "mech-2-4",
+              "number": "2.4",
+              "titleEn": "Documentation",
+              "titleCn": "记录",
+              "contentEn": "2.4 Documentation The Mechanical Run Record is recommended to contain written documentation on the main parameters, other observations and deficiencies. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "2.4 记录 机械运转 ，应做书面记录，内容包括主要参数、观察到的 情况和问题. FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "mech-3",
+          "number": "3",
+          "titleEn": "Water Run",
+          "titleCn": "试水",
+          "contentEn": "3. Water Run After the Mechanical Run has been successfully performed the Drum can be operated by pumping water into the Inlet Chute (Pulping Water) and into the Screening Section only under the supervision of the Suppliers Representative.",
+          "contentCn": "3 试水 在机械试运行结束后 ，在供货商的监督下 ，将水泵入进料斗进入筛选段 。",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "mech-3-1",
+              "number": "3.1",
+              "titleEn": "Before Water Run",
+              "titleCn": "试水前",
+              "contentEn": "3.1 Before Water Run Check pulping water and screening water piping connections, chemicaldosing connections, valves, flow meters and level indicators.",
+              "contentCn": "3.1 试水前 检查浆水和过滤水管道连接 ，化学物品输送连接 ，阀门，流量计和液面指示 器。",
+              "figures": []
+            },
+            {
+              "id": "mech-3-2",
+              "number": "3.2",
+              "titleEn": "Instruments Tuning",
+              "titleCn": "仪表调节",
+              "contentEn": "3.2 Instruments Tuning Flow meters, consistency meters and level indicators can be tuned before the Water Run. Bottom Agitators are started automatically as a function of the Stock level in the Bottom vat.",
+              "contentCn": "3.2 仪表调节 流量计 ，浓度计和液位指示器在 试水前要进行调试 。底部槽体内浆料到一定液 位，搅拌器自动启动 。",
+              "figures": []
+            },
+            {
+              "id": "mech-3-3",
+              "number": "3.3",
+              "titleEn": "Observations During the Water Run",
+              "titleCn": "试水注意点",
+              "contentEn": "3.3 Observations During the Water Run Readiness for the Stock Run is checked during the Water Run. Check the operation of all the functions of the pulping system: motors, pumps, flow meters, agitators, conveyors, piping, heating and cooling system, instrumentation and leakage. Record all necessary conditions. Create and use trends for the quality control of FibreFlow  Drum pulping. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "3.3 试水注意点 试水期间要检查存浆是否准备就绪 。检查碎浆系统的所有运转情况 ，包括：电 机，泵，流量计 ，搅拌器 ，输送机 ，管道，制热和冷却系统 ，仪表和渗漏物 。 记录所有必要条件 。创建和使用转鼓碎浆机的控制系统趋势 。 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating",
+      "number": "III",
+      "titleEn": "OPERATING INSTRUCTIONS",
+      "titleCn": "操作说明",
+      "sections": [
+        {
+          "id": "oper-1",
+          "number": "1",
+          "titleEn": "Process Description",
+          "titleCn": "过程描述",
+          "contentEn": "1. Process Description The FibreFlow  Drum pulping system consists of a paper feed conveyor, and depending on the layout, a storage conveyor. The Paper feed conveyor is speed controlled and equipped with a radiometric scale. The radiometric scale measures the paper feed amount. The signal from the radiometric scale is sent to the DCS, which calculates the actual deviation between the operator´ s set point and the measured value. Depending on the deviation, DCS controls the speed of the paper feed conveyor in order to keep the paper feed flow into the Drum constant. From the paper feed conveyor furnish is introduced into the high consistency impregnation zone with dilution water to achieve a suitable 15…18% defiberizing consistency. The pulping consistency depends on furnish quality. The Drum is rotated continuously by the main motor. Furnish is alternatively lifted and dropped. The furnish travels longitudinally through the 1o sloping drum. During this deflaking action, the paper is repulped without degrading the contaminants in the furnish. In the low consistency screening section, additional dilution water is added via showers. This results in a 2,5…4,5 % consistency and allows fibres to pass through the screen plates to the bottom vat. The Screening section consistency depends on the furnish quality. The contaminants are rejected through the end of the drum and conveyed to disposal. Rejects are dropped automatically from the Drum when it rotates. 2. Setting Pulping Parameters Pulping conditions are controlled by the DCS, which calculates and controls the pulping and screening automatically using the parameters which are set on the DCS by the operator. Parameters; production rate (kg/min .a.d. or kg/h a.d feed into the Drum), pulping temperature and pH, pulping and screening consistencies, chemical concentrations, are set on the recipe page. 3. Normal Start -Up and Shut Down Always operate the Drum in the REMOTE -/ AUTO -mode only. The start -up and shut down principles described below belong usually to the DCS -control group/ control program “Drum Pulping”. This group starts and stops the pulping. ( Complete internal interlocking of the pulping system and its functions are described nearer in the DCS system ). Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "1 过程描述 转鼓碎浆机系统包括一个喂料输送机 ，如位置许可，还可有一个贮 料输送机 .喂 料输送机的速度是可 控的,并且装备一个射线称 .，用来计量喂料量 .从射线称发出 的信号发送到 DCS,可以计算出操作人员设置值和测量值之间的偏差 .根据偏差 值,DCS调整喂料输送机的速度 ,保证喂料纸 量恒定进入转鼓内 . 废纸从喂料输送机进入高浓 进料区，同时加入 稀释水 ，达到的合适的碎浆 浓 度：15%~18% 。浆料浓度取决于 废纸质量。转鼓通过主电机连续旋转 ，废纸沿 斜度 1o的鼓体轴 向通过转鼓.整个疏解过程中 , 废纸充分碎解 ，废纸中的渣杂质不 会被破解 . 在低浓筛选段 ，补充稀释水由 喷水管加入，浆料浓度降到 2.5％-4.5％，使纤维 能够穿过 筛板流到底槽 。筛选段的浓度取决于 废纸质量。 渣杂物由 转鼓端排出。渣杂物随 转鼓转动自动排出 . 2 设置碎浆参数 碎浆参数由操作人员在 DCS上设置 ，DCS自动计算和控制 碎浆、筛浆。各个参 数、产量(kg/min 、kg/d. 或 kg/ha.d进入转鼓 )、 碎浆温度和 PH值、碎浆和筛选 浓度、化学物品的浓度在菜单页上设置 。 3 一般开机和停机 通常只能通过 远程自动模式进行操作 . 下面描述的开机和 停机规程通常属于 DCS控制组或叫 ”转鼓碎浆 ”控制程序 .这个 组启动和停止碎浆 .(碎浆系统的内部 完全联锁,它的功能描述在 DCS系统附近 ) FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "oper-2",
+          "number": "2",
+          "titleEn": "Setting Pulping Parameters",
+          "titleCn": "设置碎浆参数",
+          "contentEn": "2. Setting Pulping Parameters Pulping conditions are controlled by the DCS, which calculates and controls the pulping and screening automatically using the parameters which are set on the DCS by the operator. Parameters; production rate (kg/min .a.d. or kg/h a.d feed into the Drum), pulping temperature and pH, pulping and screening consistencies, chemical concentrations, are set on the recipe page. 3. Normal Start -Up and Shut Down Always operate the Drum in the REMOTE -/ AUTO -mode only. The start -up and shut down principles described below belong usually to the DCS -control group/ control program “Drum Pulping”. This group starts and stops the pulping. ( Complete internal interlocking of the pulping system and its functions are described nearer in the DCS system ). Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "2 设置碎浆参数 碎浆参数由操作人员在 DCS上设置 ，DCS自动计算和控制 碎浆、筛浆。各个参 数、产量(kg/min 、kg/d. 或 kg/ha.d进入转鼓 )、 碎浆温度和 PH值、碎浆和筛选 浓度、化学物品的浓度在菜单页上设置 。 3 一般开机和停机 通常只能通过 远程自动模式进行操作 . 下面描述的开机和 停机规程通常属于 DCS控制组或叫 ”转鼓碎浆 ”控制程序 .这个 组启动和停止碎浆 .(碎浆系统的内部 完全联锁,它的功能描述在 DCS系统附近 ) FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "oper-3",
+          "number": "3",
+          "titleEn": "Normal Start-Up and Shut Down",
+          "titleCn": "一般开机和停机",
+          "contentEn": "3. Normal Start -Up and Shut Down Always operate the Drum in the REMOTE -/ AUTO -mode only. The start -up and shut down principles described below belong usually to the DCS -control group/ control program “Drum Pulping”. This group starts and stops the pulping. ( Complete internal interlocking of the pulping system and its functions are described nearer in the DCS system ). Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "3 一般开机和停机 通常只能通过 远程自动模式进行操作 . 下面描述的开机和 停机规程通常属于 DCS控制组或叫 ”转鼓碎浆 ”控制程序 .这个 组启动和停止碎浆 .(碎浆系统的内部 完全联锁,它的功能描述在 DCS系统附近 ) FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "oper-3-1",
+              "number": "3.1",
+              "titleEn": "Normal Start-up Sequence Principle for Empty Drum",
+              "titleCn": "空转鼓的正常启动顺序",
+              "contentEn": "3.1 Normal Start -up Sequence Principle for Empty Drum Below the principle of shut down of the Drum pulping is described.",
+              "contentCn": "3.1 空转鼓的正常启动顺序 下面描述转鼓碎浆机的停机准则 。",
+              "figures": []
+            },
+            {
+              "id": "oper-3-2",
+              "number": "3.2",
+              "titleEn": "Normal Production Shut Down Principle",
+              "titleCn": "正常停机规程",
+              "contentEn": "3.2 Normal Production Shut Down Principle Pulping is stopped by the operator. The principle of shut down of the Drum pulping is described below.",
+              "contentCn": "3.2 正常停机规程 操作人员停止碎浆 。下面讲述停止转鼓碎浆的规程 。",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "oper-4",
+          "number": "4",
+          "titleEn": "Fast Shut Down and Start-Up",
+          "titleCn": "快速停机和开机",
+          "contentEn": "4. Fast Shut Down and Start -Up Fast shut may take place for any unexpected reason, like an emergency shut down or due to malfunction of equipment or a quick shut down of some other group. Downtime can be less than two to three hours. It is recommended that the Drum is emptied from stock for a long shut down period. It shall be emptied especially for the maintenance period.",
+          "contentCn": "4 快速停机和开机 一些预期不到的原因可能需要快速停机 ,比如紧急停机或由于设备故障或其它组 的快速停机 . 停机时间可以少于两到三个小时 .建议长时间停机的话 ,清空转鼓内的存浆 .尤其是 在维修期间 ,要把浆清空 .",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "oper-4-1",
+              "number": "4.1",
+              "titleEn": "Fast Shut Down",
+              "titleCn": "快速停机",
+              "contentEn": "4.1 Fast Shut Down The Drum can be stopped immediately even if it is full of stock. Quick Drum shut down takes place automatically, when it is operated as recommended in the REMOTE -/ AUTO -mode.",
+              "contentCn": "4.1 快速停机 即使转鼓内存满浆也可以停机 .如果转鼓处于 远程和自动模式的话 ,快速停机会自 动发生 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "oper-4-2",
+              "number": "4.2",
+              "titleEn": "Start-up After Fast Shut Down",
+              "titleCn": "快速停机后的开机",
+              "contentEn": "4.2 Start -up After Fast Shut Down Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "4.2 快速停机后的开机 如果转鼓像 4中描述的那样停机 ,里面装满了浆料 .快速手动开机必须按下面步骤 进行.",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "oper-5",
+          "number": "5",
+          "titleEn": "Long Shut Down",
+          "titleCn": "长时间停机",
+          "contentEn": "5. Long Shut Down A shut down of production for a long period of time shall be performed as described in point 3.2. It is important that stock is washed out from the Drum. Proper washing and cleaning of the FibreFlow  Drum pulping system prevents fermentation of stock and other organic impurities,and removes dust from the environment. 6. Production control It is important that the Drum is operated using remote - or auto mode on the DCS. The FibreFlow® Drum pulping and screening is controlled automatically using the specific control program designed and delivered by Andritz. The Pulping program is installed in the DCS system. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "5 Long Shut Down 长时间停机 长时间停机需要按照 3.2中描述执行 . 从转鼓内把浆冲出来是非常重要的 .适当的冲洗转鼓碎浆系统可以防止存浆和杂 质发酵 ,可以除去周围的灰尘 . 6 生产控制 转鼓通过 DCS进行远程或自动控制是非常重要的 . 转鼓碎浆和筛选是由安德里兹提供和设计的特殊控制系统自动控制的 .DCS系统 里安装了碎浆程序 . 控制系统可以计算碎浆筛选水和化学品流量的 .计算结果是基于进入转鼓内喂纸 量(千克/分钟 风干纸 ) .杂质和水分都被计算进去了 .要用一定的方法纠正 .",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "oper-6",
+          "number": "6",
+          "titleEn": "Production Control",
+          "titleCn": "生产控制",
+          "contentEn": "6. Production control It is important that the Drum is operated using remote - or auto mode on the DCS. The FibreFlow® Drum pulping and screening is controlled automatically using the specific control program designed and delivered by Andritz. The Pulping program is installed in the DCS system. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "6 生产控制 转鼓通过 DCS进行远程或自动控制是非常重要的 . 转鼓碎浆和筛选是由安德里兹提供和设计的特殊控制系统自动控制的 .DCS系统 里安装了碎浆程序 . 控制系统可以计算碎浆筛选水和化学品流量的 .计算结果是基于进入转鼓内喂纸 量(千克/分钟 风干纸 ) .杂质和水分都被计算进去了 .要用一定的方法纠正 .",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "oper-6-1",
+              "number": "6.1",
+              "titleEn": "Control Principle",
+              "titleCn": "控制原理",
+              "contentEn": "6.1 Control principle The operator needs only to change the set point of the pulping parameter, which is done on the recipe page of the DCS. The control program calculates the new value on basis of the operator's setting. Only one set point can be changed at a time. Production rate changes shall be done in small steps and wait until the first change can be measured from the process before making new changes.",
+              "contentCn": "6.1 控制原理 操作者只需要改变碎浆参数的设置点 ，要在 DCS配方页设置 。控制程序在操作 者设置的基础上计算出新的结果 。 一次只能设置一个参数 。应该慢慢的改变生产率 ，要等到可以从流程中测量到 第一次的改变后才能进行第二次改变 。 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "oper-6-2",
+              "number": "6.2",
+              "titleEn": "Typical Pulping Parameters",
+              "titleCn": "典型的碎浆参数",
+              "contentEn": "6.2 Typical pulping parameters for ONP+OMG The typical pulping consistency range is 15 … 18 % depending on the furnish quality. The screening consistency range is 2,5 … 4,5 %. The pulping temperature shall usually be higher than 42oC. The pulping pH depends on process requirements and deinking chemicals. With soap chemistry, for instance,it can be 9,5. Pulping of OCC furnishes are performed usually in neutral conditions.",
+              "contentCn": "6.2 典型的碎浆参数 典型的碎浆浓度范围为 15…18％，取决于废纸配料质量 。筛选浓度范围为 2.5％…4.5％。碎浆温度通常高于 42摄氏度 。PH值取决于流程需求和脱墨化学 药品，用燥类化学物品 ，就是 9.5。OCC浆通常为中性的 。",
+              "figures": []
+            },
+            {
+              "id": "oper-6-3",
+              "number": "6.3",
+              "titleEn": "Use Trends",
+              "titleCn": "使用趋势图",
+              "contentEn": "6.3 Use trends Create trends for all necessary control parameters. 7. Other Below important practises and actions, which must be followed in order to achieve safe and troublefree operation, are described.",
+              "contentCn": "6.3 使用趋势图 为所有必需控制的参数建立趋势图 . 7 其它 为了安全无障碍的操作 ,必须严格执行下面所讲的行为 .",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "oper-7",
+          "number": "7",
+          "titleEn": "Other",
+          "titleCn": "其它",
+          "contentEn": "7. Other Below important practises and actions, which must be followed in order to achieve safe and troublefree operation, are described.",
+          "contentCn": "7 其它 为了安全无障碍的操作 ,必须严格执行下面所讲的行为 .",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "oper-7-1",
+              "number": "7.1",
+              "titleEn": "Remove Harmful Impurities from Furnish",
+              "titleCn": "捡出废纸中的有害杂质",
+              "contentEn": "7.1 Remove harmful impurities from furnish Heavy particles, heavy objects or other non -paper material, which may be harmful, or even damage the FibreFlow pulping system, must be removed or separated from the furnish. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "7.1 捡出废纸中的有害杂质 重颗粒 ,重物质或者其它不是纸的物质 ,都可能是有害的 ,甚至会损坏转鼓碎浆系统 . 必须清除或者从废纸中分离出来 .",
+              "figures": []
+            },
+            {
+              "id": "oper-7-2",
+              "number": "7.2",
+              "titleEn": "Bottom Vat Cleanliness",
+              "titleCn": "清洗底部槽体",
+              "contentEn": "7.2 Bottom vat cleanliness Check the cleanliness of the bottom vat and clean it if needed on a regular basis. After the first start up of the process check the vat condition more often and at regular intervals. Usually, it is not necessary to clean the bottom vat, but its condition shall be checked when it is empty. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "7.2 清洗底部槽体 检查底部槽体 ，如果有需要的话清洗一下 。第一次开启后 ，隔段时间检查一下 槽体状况 。通常，不需要清洗底部槽体 ，但是清空后需要检查 。 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "number": "IV",
+      "titleEn": "MAINTENANCE INSTRUCTIONS",
+      "titleCn": "维护保养指南",
+      "sections": [
+        {
+          "id": "maint-1",
+          "number": "1",
+          "titleEn": "Electrical Motor (Main Drive)",
+          "titleCn": "电机",
+          "contentEn": "1. ELECTRICAL MOTOR (MAIN DRIVE) See separate instructions. 2. COUPLING See separate instructions in chapter Fluid Coupling 3. MAIN DRIVE Separate instructions are in chapte r Santasalo Gear",
+          "contentCn": "1 电机 见电机说明 . 2 联轴器 见液压联轴器说明 . 3 主驱动 见Santasalo 齿轮传动说明 .",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-2",
+          "number": "2",
+          "titleEn": "Coupling",
+          "titleCn": "联轴器",
+          "contentEn": "2. COUPLING See separate instructions in chapter Fluid Coupling 3. MAIN DRIVE Separate instructions are in chapte r Santasalo Gear",
+          "contentCn": "2 联轴器 见液压联轴器说明 . 3 主驱动 见Santasalo 齿轮传动说明 .",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-3",
+          "number": "3",
+          "titleEn": "Main Drive",
+          "titleCn": "主驱动",
+          "contentEn": "3. MAIN DRIVE Separate instructions are in chapte r Santasalo Gear",
+          "contentCn": "3.2慢速驱动 . 1 电机 见电机说明 . 2 联轴器 见液压联轴器说明 . 3 主驱动 见Santasalo 齿轮传动说明 .",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "maint-3-1",
+              "number": "3.1",
+              "titleEn": "Main Gear Box",
+              "titleCn": "主减速箱",
+              "contentEn": "3.1 MAIN GEAR BOX The mounting torque of the drive base fixing bolts shall be checked after first three months of operation. The fixing bolts shall be mounted up to torque maximum 4280Nm with MoS2 grease, or alternatively to torque maximum 6000Nm if the threads are dry. Use only proper mounting tools to achieve the required torque, for instance a hydraulic torque wrench. See separate instructions of main Gear Box See drawing drive assembly 703766839 .",
+              "contentCn": "3.1 主减速箱 ➢ 运行前三个月后需要检查驱动地脚螺栓的安装扭矩 . ➢ 地脚螺栓的安装扭矩应该上的 4280Nm,并用 MoS2润滑脂进行润滑 ,或者在 螺纹干燥的情况下将扭矩上的 6000Nm.使用适当的 工具来达到需要的扭矩 , 比如一个液压扭矩扳手 . ➢ 见主减速箱说明 ➢ 见图纸传动图纸 .图703682399 , 703682762",
+              "figures": []
+            },
+            {
+              "id": "maint-3-2",
+              "number": "3.2",
+              "titleEn": "Slow Drive",
+              "titleCn": "低速驱动",
+              "contentEn": "3.2 SLOW DRIVE Separate instructions are in chapter Santasalo Gear; pay especially attention to:",
+              "contentCn": "3.2 大齿轮圈 见Santasalo 齿轮传动装置 介绍",
+              "figures": []
+            },
+            {
+              "id": "maint-3-3",
+              "number": "3.3",
+              "titleEn": "Girth Gear",
+              "titleCn": "大齿轮圈",
+              "contentEn": "3.3 GIRTH GEAR See separate instructions in chapter Santasalo gear.",
+              "contentCn": "",
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "maint-4",
+          "number": "4",
+          "titleEn": "Agitator(s)",
+          "titleCn": "搅拌器",
+          "contentEn": "4. AGITATOR(S) See separate instructions in chapter Agitators. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "4 搅拌器 见搅拌器章节中单独介绍 5 底部槽体泵 见单独介绍 6 进料斗和转鼓旋转部件间的绳索密封 有规律的检查密封是否渗水 ,绳索的密度和状态 .有必要的话将绳索转 90º,如果完 全用旧了 ,将其更换掉 . 7 开启或调 整支撑滚轮 支撑滚轮必须按照转鼓的中心线进行排列 (沿着中心轴 ).排列应该在安装和 观察阶 段进行 .如果要替换掉一个滚轮 ,开机前必须检查并核实排列 . 8 喷淋水管 确保所有喷淋水管都是畅通的 . 分析喷淋水质量 ,通常分析从多圆盘泵到碎浆和筛选段的污水和澄清滤液 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-5",
+          "number": "5",
+          "titleEn": "Bottom Vat Pump",
+          "titleCn": "底部槽体泵",
+          "contentEn": "5. BOTTOM VAT PUMP See separate instructions. 6. ROPE SEAL BETWEEN INLET CHUTE AND ROTATING PART OF THE DRUM Check regularly that the seal is not leaking i.e. the tightness of the rope and its condition. If necessary turn the rope around (90º ); when it is totally worn (both sides), replace it. 7. BEFORE START -UP/ ALIGNMENT OF THE SUPPORT ROLLS The support rolls must be aligned according the centerline of the Drum (along the horizontal axis). Alignment has been performed during the erection and inspected, too. In case of replacement of one of the rolls, the alignment must be checked and verified before the start -up. 8. SHOWER PIPE Make sure that all shower pipe holes are open. Analyse the quality of the shower water, usually the purity of the Cloudy or Clear Filtrate pumped to the pulping and screening from the Disc Filter. 9. LUBRICATION SYSTEM Lubrication instructions, lubrication intervals, lubricant for each lubrication point, are in chapter “Lubrication instructions”. Do not under - or overdose the grease on the lubrication points. See separate instructions of Central Lubrication System. Check at regular intervals that the control unit of the lubrication system is controlled by i.e. connected to the DCS. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "5 底部槽体泵 见单独介绍 6 进料斗和转鼓旋转部件间的绳索密封 有规律的检查密封是否渗水 ,绳索的密度和状态 .有必要的话将绳索转 90º,如果完 全用旧了 ,将其更换掉 . 7 开启或调 整支撑滚轮 支撑滚轮必须按照转鼓的中心线进行排列 (沿着中心轴 ).排列应该在安装和 观察阶 段进行 .如果要替换掉一个滚轮 ,开机前必须检查并核实排列 . 8 喷淋水管 确保所有喷淋水管都是畅通的 . 分析喷淋水质量 ,通常分析从多圆盘泵到碎浆和筛选段的污水和澄清滤液 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-6",
+          "number": "6",
+          "titleEn": "Rope Seal Between Inlet Chute and Rotating Part",
+          "titleCn": "绳索密封",
+          "contentEn": "6. ROPE SEAL BETWEEN INLET CHUTE AND ROTATING PART OF THE DRUM Check regularly that the seal is not leaking i.e. the tightness of the rope and its condition. If necessary turn the rope around (90º ); when it is totally worn (both sides), replace it. 7. BEFORE START -UP/ ALIGNMENT OF THE SUPPORT ROLLS The support rolls must be aligned according the centerline of the Drum (along the horizontal axis). Alignment has been performed during the erection and inspected, too. In case of replacement of one of the rolls, the alignment must be checked and verified before the start -up. 8. SHOWER PIPE Make sure that all shower pipe holes are open. Analyse the quality of the shower water, usually the purity of the Cloudy or Clear Filtrate pumped to the pulping and screening from the Disc Filter. 9. LUBRICATION SYSTEM Lubrication instructions, lubrication intervals, lubricant for each lubrication point, are in chapter “Lubrication instructions”. Do not under - or overdose the grease on the lubrication points. See separate instructions of Central Lubrication System. Check at regular intervals that the control unit of the lubrication system is controlled by i.e. connected to the DCS. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "6 进料斗和转鼓旋转部件间的绳索密封 有规律的检查密封是否渗水 ,绳索的密度和状态 .有必要的话将绳索转 90º,如果完 全用旧了 ,将其更换掉 . 7 开启或调 整支撑滚轮 支撑滚轮必须按照转鼓的中心线进行排列 (沿着中心轴 ).排列应该在安装和 观察阶 段进行 .如果要替换掉一个滚轮 ,开机前必须检查并核实排列 . 8 喷淋水管 确保所有喷淋水管都是畅通的 . 分析喷淋水质量 ,通常分析从多圆盘泵到碎浆和筛选段的污水和澄清滤液 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-7",
+          "number": "7",
+          "titleEn": "Alignment of the Support Rolls",
+          "titleCn": "支撑滚轮调整",
+          "contentEn": "7. BEFORE START -UP/ ALIGNMENT OF THE SUPPORT ROLLS The support rolls must be aligned according the centerline of the Drum (along the horizontal axis). Alignment has been performed during the erection and inspected, too. In case of replacement of one of the rolls, the alignment must be checked and verified before the start -up. 8. SHOWER PIPE Make sure that all shower pipe holes are open. Analyse the quality of the shower water, usually the purity of the Cloudy or Clear Filtrate pumped to the pulping and screening from the Disc Filter. 9. LUBRICATION SYSTEM Lubrication instructions, lubrication intervals, lubricant for each lubrication point, are in chapter “Lubrication instructions”. Do not under - or overdose the grease on the lubrication points. See separate instructions of Central Lubrication System. Check at regular intervals that the control unit of the lubrication system is controlled by i.e. connected to the DCS. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "7 开启或调 整支撑滚轮 支撑滚轮必须按照转鼓的中心线进行排列 (沿着中心轴 ).排列应该在安装和 观察阶 段进行 .如果要替换掉一个滚轮 ,开机前必须检查并核实排列 . 8 喷淋水管 确保所有喷淋水管都是畅通的 . 分析喷淋水质量 ,通常分析从多圆盘泵到碎浆和筛选段的污水和澄清滤液 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-8",
+          "number": "8",
+          "titleEn": "Shower Pipe",
+          "titleCn": "喷淋水管",
+          "contentEn": "8. SHOWER PIPE Make sure that all shower pipe holes are open. Analyse the quality of the shower water, usually the purity of the Cloudy or Clear Filtrate pumped to the pulping and screening from the Disc Filter. 9. LUBRICATION SYSTEM Lubrication instructions, lubrication intervals, lubricant for each lubrication point, are in chapter “Lubrication instructions”. Do not under - or overdose the grease on the lubrication points. See separate instructions of Central Lubrication System. Check at regular intervals that the control unit of the lubrication system is controlled by i.e. connected to the DCS. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "8 喷淋水管 确保所有喷淋水管都是畅通的 . 分析喷淋水质量 ,通常分析从多圆盘泵到碎浆和筛选段的污水和澄清滤液 . FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-9",
+          "number": "9",
+          "titleEn": "Lubrication System",
+          "titleCn": "润滑系统",
+          "contentEn": "9. LUBRICATION SYSTEM Lubrication instructions, lubrication intervals, lubricant for each lubrication point, are in chapter “Lubrication instructions”. Do not under - or overdose the grease on the lubrication points. See separate instructions of Central Lubrication System. Check at regular intervals that the control unit of the lubrication system is controlled by i.e. connected to the DCS. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "9 润滑系统 润滑说明 ,润滑间隔时间 ,每个点的润滑都在 ”润滑说明 ”章节中介绍 . 不要多加或少加润滑点的润滑脂 . 见单独的中心润滑系统说明 . 每隔一段时间 检查润滑系统的控制部件 ,润滑系统也是通过 DCS控制的 . 10 转鼓内部 检查内部结构以及提升装置和挡板的焊接点 . 除去可能会卡在提升部位的废弃物 。检查底部槽体 ，除去所有像订书钉之类的 废弃物 。根据废纸质量 ，建议每隔 1-3个月检查一次 ，见12节。 11 转鼓碎浆系统 区域 保持碎浆区域清洁 ，使渗浆和损坏能有容易用肉眼观察到 。 建议操作和维修员工每天都 观察碎浆系统的运行 ，检测没一个异常振动 ，噪 声，渗漏，有需要的话要立刻采取措施 。 12 废纸质量 去掉所有可能会对纸包处理系统 ，纸料输送系统 ，碎浆系统和排渣系统产生危 害的杂质 。 防止有害杂质进入 转鼓内 。 分析废纸质量 ，按照说明检测纯度 ，水分和杂质 。根据结果在 DCS调整碎浆参 数。 13 检查转鼓碎浆机的减速齿轮",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-10",
+          "number": "10",
+          "titleEn": "Inside of the Drum",
+          "titleCn": "转鼓内部",
+          "contentEn": "10. INSIDE OF THE DRUM Check the inner structures and the welded joints of the lifters and baffles. Remove junk or paper piles that may be stucked in between the lifters. Check bottom vat and remove all junk like staples. Recommended inspection interval 1 - 3 months depending on furnish purity, see chapter 12. 11. AREA OF THE FIBREFLOW® DRUM PULPING SYSTEM Keep pulper area clean so that leaks and damages are easily spotted and visual inspections easy to do. It is recommended that operators and maintenance staff observe the pulping system operation every day in every shift checking unusual vibrations, sounds, leaks and take prompt action when necessary. 12. FURNISH QUALITY Remove all harmful impurities that may cause harm or damage to the bale handling, paper feeding system, pulper or reject handling system. Prevent the access of harmful impurities or objects into the Drum. Analyse furnish quality, its purity, moisture and contaminants and check that they are according to specifications. Adjust pulping recipe (DCS) according to analysis results (moisture) 13. CHECKING THE GEARS OF THE FIBREFLOW DRUM",
+          "contentCn": "10 转鼓内部 检查内部结构以及提升装置和挡板的焊接点 . 除去可能会卡在提升部位的废弃物 。检查底部槽体 ，除去所有像订书钉之类的 废弃物 。根据废纸质量 ，建议每隔 1-3个月检查一次 ，见12节。 11 转鼓碎浆系统 区域 保持碎浆区域清洁 ，使渗浆和损坏能有容易用肉眼观察到 。 建议操作和维修员工每天都 观察碎浆系统的运行 ，检测没一个异常振动 ，噪 声，渗漏，有需要的话要立刻采取措施 。 12 废纸质量 去掉所有可能会对纸包处理系统 ，纸料输送系统 ，碎浆系统和排渣系统产生危 害的杂质 。 防止有害杂质进入 转鼓内 。 分析废纸质量 ，按照说明检测纯度 ，水分和杂质 。根据结果在 DCS调整碎浆参 数。 13 检查转鼓碎浆机的减速齿轮",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-11",
+          "number": "11",
+          "titleEn": "Area of the FibreFlow Drum Pulping System",
+          "titleCn": "转鼓碎浆系统区域",
+          "contentEn": "11. AREA OF THE FIBREFLOW® DRUM PULPING SYSTEM Keep pulper area clean so that leaks and damages are easily spotted and visual inspections easy to do. It is recommended that operators and maintenance staff observe the pulping system operation every day in every shift checking unusual vibrations, sounds, leaks and take prompt action when necessary. 12. FURNISH QUALITY Remove all harmful impurities that may cause harm or damage to the bale handling, paper feeding system, pulper or reject handling system. Prevent the access of harmful impurities or objects into the Drum. Analyse furnish quality, its purity, moisture and contaminants and check that they are according to specifications. Adjust pulping recipe (DCS) according to analysis results (moisture) 13. CHECKING THE GEARS OF THE FIBREFLOW DRUM",
+          "contentCn": "11 转鼓碎浆系统 区域 保持碎浆区域清洁 ，使渗浆和损坏能有容易用肉眼观察到 。 建议操作和维修员工每天都 观察碎浆系统的运行 ，检测没一个异常振动 ，噪 声，渗漏，有需要的话要立刻采取措施 。 12 废纸质量 去掉所有可能会对纸包处理系统 ，纸料输送系统 ，碎浆系统和排渣系统产生危 害的杂质 。 防止有害杂质进入 转鼓内 。 分析废纸质量 ，按照说明检测纯度 ，水分和杂质 。根据结果在 DCS调整碎浆参 数。 13 检查转鼓碎浆机的减速齿轮",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-12",
+          "number": "12",
+          "titleEn": "Furnish Quality",
+          "titleCn": "废纸质量",
+          "contentEn": "12. FURNISH QUALITY Remove all harmful impurities that may cause harm or damage to the bale handling, paper feeding system, pulper or reject handling system. Prevent the access of harmful impurities or objects into the Drum. Analyse furnish quality, its purity, moisture and contaminants and check that they are according to specifications. Adjust pulping recipe (DCS) according to analysis results (moisture) 13. CHECKING THE GEARS OF THE FIBREFLOW DRUM",
+          "contentCn": "12.6.2025 维护保养说明 4-2 一年后 ,每六个月一次 开机三个月后立即拧紧扇形齿轮的紧固螺栓 ,见图纸 Santasalo 手册,此后每年都要 用适合的工具 ,如液压转矩扳手拧紧扇形齿轮的紧固螺栓 . 维护工作结束后的两周内必须将记录的拧紧数据转交给安德里茨项目经理 .",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "maint-13",
+          "number": "13",
+          "titleEn": "Checking the Gears",
+          "titleCn": "检查减速齿轮",
+          "contentEn": "13. CHECKING THE GEARS OF THE FIBREFLOW DRUM",
+          "contentCn": "13 检查转鼓碎浆机的减速齿轮",
+          "figures": [],
+          "subsections": [
+            {
+              "id": "maint-13-1",
+              "number": "13.1",
+              "titleEn": "Measuring Thickness",
+              "titleCn": "测量厚度",
+              "contentEn": "13.1 MEASURING THICKNESS (dwg. KF -401381, table KF -403881) - Measure the tooth thickness with a caliper gauge. Use a 30 mm thick filling piece to make the measurement from the same depth (to keep same distance from the teeth tips) on every tooth. - The measuring point is located 30 mm from the tooth tip (the module is 30 mm). - Mark the teeth with numbers and make a record of the measurements. - The measuring is carried out e.g. every three months. After measuring, compare the results with the previous measuring results and check possible wear of the teeth. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "13.1 测量厚度 (dwg.图 KF-401381, table 表 KF-403881) ➢ 用千分尺测量齿厚 。用一个 30mm的垫片 ，使对每一个齿的测量都从同一 个高度进行 。 ➢ 测量点顶在离齿端 30mm的地方 （模数为 30mm ） FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            },
+            {
+              "id": "maint-13-2",
+              "number": "13.2",
+              "titleEn": "Checking Backlash and Runout",
+              "titleCn": "检查齿间隙和偏转公差",
+              "contentEn": "13.2 CHECKING THE BACKLASH AND RUNOUT OF GIRTH GEAR AND PINION ( dwg. KF -403882) Check the backlash and girth gear -pinion -contact immediately, if a high vibration or strange noise is measured from the drive. It is important that the drive base bolts are re -tightened after three months from the start -up. Check girth gear runout with a dial indicator also three months from the start up of the drum and thereafter once per year on regular basis.. Record every measurement at least on 6 points around the girth gear. For tolerances see dwg. Santasalo - Check the gear backlash 3 months after the first start -up of the Drum and thereafter once per year on regular basis. - The backlash is measured from both sides of the gear by means of a feeler gauge. Measuring is performed at least on 6 points around the gear. - While measuring the backlash, observe the position of reference circles machined to the gear segments and the pinion. The distance (“E”) in the Metso Gear´ s instructions is the distance between the circles. - See tolerances in Santasalo Gear chapter. - Record the measurements. - The tooth tip shall under no circumstances touch the bottom of the Girth Gear or Pinion. Such a contact would cause a high vibration and gear damage. - The even tooth backlash is the primary measurement to ensure correct tooth contact. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+              "contentCn": "13.2 检查大齿轮圈 和小齿轮的 齿间隙和偏转公差 ( dwg. KF -403882) 如果传动 出现异常 振动或噪声 ，应立即检查 大、小齿圈的 齿间间隙及接触面 。 有一点很重要 ，在开机三个月后要重新紧固地脚螺栓 。 开机后三个月或之后每年都要用千分表检测齿轮的偏转公差 。最少记录 大齿轮 圈的6个点。公差见Santasalo ➢ 开机后三个月和之后每年都要检查齿隙 。 ➢ 用千分尺测量齿轮两边的齿隙 。沿齿轮周围最少测量 6个点。 ➢ 测量齿隙时 ，注意扇形齿轮和小齿轮上的 分度圆位置。Santasalo 齿轮说明 中的距离 E是指两个分度圆之间的距离 。 ➢ 见Santasalo 齿轮章节中的公差 。 ➢ 记录测量结果 ➢ 齿尖在任何情况下都不可以接触齿轮齿轮箱的底部 。一旦接触就会造成强 烈振动和损坏齿轮 。 ➢ 参照齿隙为初次测量结果 ，保证正确的齿间配合 。 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+              "figures": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lubrication",
+      "number": "V",
+      "titleEn": "LUBRICATION INSTRUCTIONS",
+      "titleCn": "润滑说明",
+      "sections": [
+        {
+          "id": "lube-1",
+          "number": "1",
+          "titleEn": "Lubrication Points and Schedule",
+          "titleCn": "润滑点和润滑周期",
+          "contentEn": "1. Support roll bearings 24164 4 pcs - Reject end Support roll bearings 24164 4 pcs - Feed end Axial roll bearings 32232 2 pcs Central lubrication Central lubrication Central lubrication 2 hours 2 hours 2 hours POS 2. 3,6 g/interval POS 1. 3,6 g/interval POS 1. 2,4 g/interval Mobilith SHC 1500 Mobilith SHC 1500 Mobilith SHC 1500 Support rings 2. Contact surfaces - Reject end - Feed end Central lubrication Central lubrication 15 min 15 min POS 4. 1,8 g/interval POS 3. 4, 8 g/interval Mobil Mobilgear SHC 6800 Mobil Mobilgear SHC 6800 Axial roll 3. Contact surfaces Central lubrication 15 min POS 3. 3,1 g/interval Mobil Mobilgear SHC 6800 Gear girth 4. Contact surface Central lubrication 15 min POS 4. 4,8 g/interval Mobil Mobilgear SHC 6800 Drive 5. Gear box Slow drive Bath lubrication Bath lubrication 1st change 500 800h After that once a year 1st change 500 800h After two years Join level down ， 250mm/ 135 litres See Nord Manual ISO VG 320 EP See manual ISO VG 220 EP Support rollers 9. Adjusting screws 8 nipples 6 months EP2 Agitator: 10. Bearing Nipples 4 month 30 g / bear ing EP2 Follow manufacturers instructions of this file and find out different acceptable oil qualities and companies. Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
+          "contentCn": "1. 4个型号为 24156的支 撑滚轮轴承 -出浆侧 4个型号为 24156的支 撑滚轮轴承 -进浆侧 2个型号为 32234的轴向 滚轮轴承 中心润滑 中心润滑 中心润滑 2小时 2小时 2小时 POS 2. 3,6 克/次 POS 1. 3,6 克/次 POS 1. 2,4克/次 Mobilith SHC 1500 Mobilith SHC 1500 Mobilith SHC 1500 支撑环 2. 接触面 -出浆侧 -进浆侧 中心润滑 中心润滑 15分钟 15分钟 POS 4. 4,8 克/次 POS 3. 4, 8克/次 Mobil Mobilgear SHC 6800 轴向滚轮 3. 接触面 中心润滑 15分钟 POS 3. 3,2 克/次 Mobil Mobilgear SHC 6800 大齿圈 4. 接触面 中心润滑 15分钟 POS 4. 4,8 克/次 Mobil Mobilgear SHC 6800 主传动 5. 减速箱 溅油式润滑 500-800小 时第一次 更换，以后 一年一次。 335mm,大约 212L 刚好加到油位线 ISO VG 320 EP 支撑滚轮 9. 调节螺栓 8 油嘴 6个月 EP2 10.搅拌器轴承 见搅拌器说明书 FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
+          "figures": [],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "id": "supplier",
+      "number": "VI",
+      "titleEn": "SUB-SUPPLIER DOCUMENTATION",
+      "titleCn": "供应商信息",
+      "sections": [
+        {
+          "id": "supplier-1",
+          "number": "1",
+          "titleEn": "Main Drive",
+          "titleCn": "主传动",
+          "contentEn": "1. Main drive Manufacture ：Santasalo Type：D3PSF110LB 2. Slow drive Manufacture ：NORD Type：SK 9072.1AF -180M X/4 Power：18.5dKW 3. GEAR GIRTH Manufacture ：Santasalo Type：SG168/30/250| PG22/30/280 4. Coupling Manufacture ：TRANSFLUID Type：34 CKRG3 5. Proximity switch Manufacture ：IFM Type：IG5593",
+          "contentCn": "1. 主传动 供应商 ：SANTASALO 型号：D2PSF110LB 2. 大齿圈 供应商 ：SANTASALO 型号：SG17/30/250 3. 联轴器 供应商 ：TRANSFLUID 型号：34 CKRG3 4. 限位开关 供应商 ：IFM 型号：IG5593",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "supplier-2",
+          "number": "2",
+          "titleEn": "Slow Drive",
+          "titleCn": "慢速驱动",
+          "contentEn": "2. Slow drive Manufacture ：NORD Type：SK 9072.1AF -180M X/4 Power：18.5dKW 3. GEAR GIRTH Manufacture ：Santasalo Type：SG168/30/250| PG22/30/280 4. Coupling Manufacture ：TRANSFLUID Type：34 CKRG3 5. Proximity switch Manufacture ：IFM Type：IG5593",
+          "contentCn": "2. 大齿圈 供应商 ：SANTASALO 型号：SG17/30/250 3. 联轴器 供应商 ：TRANSFLUID 型号：34 CKRG3 4. 限位开关 供应商 ：IFM 型号：IG5593",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "supplier-3",
+          "number": "3",
+          "titleEn": "Gear Girth",
+          "titleCn": "大齿圈",
+          "contentEn": "3. GEAR GIRTH Manufacture ：Santasalo Type：SG168/30/250| PG22/30/280 4. Coupling Manufacture ：TRANSFLUID Type：34 CKRG3 5. Proximity switch Manufacture ：IFM Type：IG5593",
+          "contentCn": "3. 联轴器 供应商 ：TRANSFLUID 型号：34 CKRG3 4. 限位开关 供应商 ：IFM 型号：IG5593",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "supplier-4",
+          "number": "4",
+          "titleEn": "Coupling",
+          "titleCn": "联轴器",
+          "contentEn": "4. Coupling Manufacture ：TRANSFLUID Type：34 CKRG3 5. Proximity switch Manufacture ：IFM Type：IG5593",
+          "contentCn": "4. 限位开关 供应商 ：IFM 型号：IG5593",
+          "figures": [],
+          "subsections": []
+        },
+        {
+          "id": "supplier-5",
+          "number": "5",
+          "titleEn": "Proximity Switch",
+          "titleCn": "限位开关",
+          "contentEn": "5. Proximity switch Manufacture ：IFM Type：IG5593",
+          "contentCn": "",
+          "figures": [],
+          "subsections": []
+        }
+      ]
+    }
+  ]
+}
