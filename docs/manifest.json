@@ -1,0 +1,15 @@
+{
+  "name": "FFD400EEL 电子手册",
+  "short_name": "FFD400EEL",
+  "description": "ANDRITZ FFD400EEL 纤维流滚筒碎浆机 - 中英双语电子手册",
+  "start_url": "/SP-FFD-COMMISION/",
+  "scope": "/SP-FFD-COMMISION/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1976D2",
+  "icons": [
+    { "src": "/SP-FFD-COMMISION/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/SP-FFD-COMMISION/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
