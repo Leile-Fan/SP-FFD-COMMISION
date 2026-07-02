@@ -270,7 +270,33 @@
               "titleCn": "润滑",
               "contentEn": "1.2 Lubrication Lubricants for the Main Drive gearbox, Fluid Coupling and Auxiliary Drive shall be filled -up. Girth Gear and Pinion (drive wheel), and Support Rollers and Axial Roll shall be lubricated by rotating the Drum using the Slow Drive or manually. Agitators and Bottom Vat pump shall be greased, too. The operation of the Central Lubrication System shall be checked and tuned. The bearings of the Support Rollers and Axial Roll shall be lubricated by the Central Lubrication System as well as the Girth Gear and Pinion. The rotation direction of the lubrication pump of the main drive shall be checked; also the Cooling water connections of the Main Drive. Check agitators and Bottom Vat pump sealing water flow and pressure.",
               "contentCn": "1.2 润滑 主传动减速箱 ，液压联轴器和辅助电机都应该装满润滑油 。对大齿轮和小齿轮 （驱动轮），和支撑滚轮和轴向滚轮润滑时需要通过慢速驱动或手动旋转转 鼓。搅拌器和底部槽体泵也需要加润滑脂 。 中央润滑系统的运行需要检查和调整 。支撑滚轮和轴向滚轮和 大齿轮和小齿轮 一样通过中央润滑系统进行润滑 。 应该检查主传动润滑泵的旋转方向 ，冷却水和主传动的连接部件 。 检查搅拌器和底部槽体泵密封水的流量的水压 。",
-              "figures": []
+              "figures": [
+                {
+                  "file": "fig-02.svg",
+                  "captionEn": "Lubrication Channel Diagram",
+                  "captionCn": "润滑通道示意图"
+                },
+                {
+                  "file": "fig-03.svg",
+                  "captionEn": "Lubrication Points Overview",
+                  "captionCn": "润滑点总览"
+                },
+                {
+                  "file": "fig-04.svg",
+                  "captionEn": "Gear Lubrication Detail",
+                  "captionCn": "齿轮润滑详图"
+                },
+                {
+                  "file": "fig-05.png",
+                  "captionEn": "Lubrication Station Setup",
+                  "captionCn": "润滑站设置"
+                },
+                {
+                  "file": "fig-06.png",
+                  "captionEn": "SKF Lubrication System",
+                  "captionCn": "SKF 润滑系统"
+                }
+              ]
             },
             {
               "id": "mech-1-3",
@@ -410,7 +436,23 @@
           "titleCn": "过程描述",
           "contentEn": "1. Process Description The FibreFlow  Drum pulping system consists of a paper feed conveyor, and depending on the layout, a storage conveyor. The Paper feed conveyor is speed controlled and equipped with a radiometric scale. The radiometric scale measures the paper feed amount. The signal from the radiometric scale is sent to the DCS, which calculates the actual deviation between the operator´ s set point and the measured value. Depending on the deviation, DCS controls the speed of the paper feed conveyor in order to keep the paper feed flow into the Drum constant. From the paper feed conveyor furnish is introduced into the high consistency impregnation zone with dilution water to achieve a suitable 15…18% defiberizing consistency. The pulping consistency depends on furnish quality. The Drum is rotated continuously by the main motor. Furnish is alternatively lifted and dropped. The furnish travels longitudinally through the 1o sloping drum. During this deflaking action, the paper is repulped without degrading the contaminants in the furnish. In the low consistency screening section, additional dilution water is added via showers. This results in a 2,5…4,5 % consistency and allows fibres to pass through the screen plates to the bottom vat. The Screening section consistency depends on the furnish quality. The contaminants are rejected through the end of the drum and conveyed to disposal. Rejects are dropped automatically from the Drum when it rotates. 2. Setting Pulping Parameters Pulping conditions are controlled by the DCS, which calculates and controls the pulping and screening automatically using the parameters which are set on the DCS by the operator. Parameters; production rate (kg/min .a.d. or kg/h a.d feed into the Drum), pulping temperature and pH, pulping and screening consistencies, chemical concentrations, are set on the recipe page. 3. Normal Start -Up and Shut Down Always operate the Drum in the REMOTE -/ AUTO -mode only. The start -up and shut down principles described below belong usually to the DCS -control group/ control program “Drum Pulping”. This group starts and stops the pulping. ( Complete internal interlocking of the pulping system and its functions are described nearer in the DCS system ). Fibre Flow Drum FFD Paperiko Co., Ltd. , PRF 40178405",
           "contentCn": "1 过程描述 转鼓碎浆机系统包括一个喂料输送机 ，如位置许可，还可有一个贮 料输送机 .喂 料输送机的速度是可 控的,并且装备一个射线称 .，用来计量喂料量 .从射线称发出 的信号发送到 DCS,可以计算出操作人员设置值和测量值之间的偏差 .根据偏差 值,DCS调整喂料输送机的速度 ,保证喂料纸 量恒定进入转鼓内 . 废纸从喂料输送机进入高浓 进料区，同时加入 稀释水 ，达到的合适的碎浆 浓 度：15%~18% 。浆料浓度取决于 废纸质量。转鼓通过主电机连续旋转 ，废纸沿 斜度 1o的鼓体轴 向通过转鼓.整个疏解过程中 , 废纸充分碎解 ，废纸中的渣杂质不 会被破解 . 在低浓筛选段 ，补充稀释水由 喷水管加入，浆料浓度降到 2.5％-4.5％，使纤维 能够穿过 筛板流到底槽 。筛选段的浓度取决于 废纸质量。 渣杂物由 转鼓端排出。渣杂物随 转鼓转动自动排出 . 2 设置碎浆参数 碎浆参数由操作人员在 DCS上设置 ，DCS自动计算和控制 碎浆、筛浆。各个参 数、产量(kg/min 、kg/d. 或 kg/ha.d进入转鼓 )、 碎浆温度和 PH值、碎浆和筛选 浓度、化学物品的浓度在菜单页上设置 。 3 一般开机和停机 通常只能通过 远程自动模式进行操作 . 下面描述的开机和 停机规程通常属于 DCS控制组或叫 ”转鼓碎浆 ”控制程序 .这个 组启动和停止碎浆 .(碎浆系统的内部 完全联锁,它的功能描述在 DCS系统附近 ) FibreFlow Drum FFD 桂平市桥裕纸业有限公司 ,PRF 40159181",
-          "figures": [],
+          "figures": [
+            {
+              "file": "fig-01.jpeg",
+              "captionEn": "FibreFlow Drum Pulping System Overview",
+              "captionCn": "FibreFlow 转鼓碎浆系统概览"
+            },
+            {
+              "file": "fig-07.png",
+              "captionEn": "Process Flow Diagram",
+              "captionCn": "工艺流程示意图"
+            },
+            {
+              "file": "fig-08.png",
+              "captionEn": "Screening Section Detail",
+              "captionCn": "筛选段详图"
+            }
+          ],
           "subsections": []
         },
         {
@@ -439,7 +481,23 @@
               "titleCn": "空转鼓的正常启动顺序",
               "contentEn": "3.1 Normal Start -up Sequence Principle for Empty Drum Below the principle of shut down of the Drum pulping is described.",
               "contentCn": "3.1 空转鼓的正常启动顺序 下面描述转鼓碎浆机的停机准则 。",
-              "figures": []
+              "figures": [
+                {
+                  "file": "fig-09.png",
+                  "captionEn": "Start-up Sequence Step 1",
+                  "captionCn": "启动步骤 1"
+                },
+                {
+                  "file": "fig-10.png",
+                  "captionEn": "Start-up Sequence Step 2",
+                  "captionCn": "启动步骤 2"
+                },
+                {
+                  "file": "fig-11.png",
+                  "captionEn": "Start-up Sequence Step 3",
+                  "captionCn": "启动步骤 3"
+                }
+              ]
             },
             {
               "id": "oper-3-2",
